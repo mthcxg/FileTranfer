@@ -12,7 +12,7 @@ Các chức năng:
 - Download file.
 - Chat trong nhóm
 - Ghi log hoạt động
-Giao thức
+# Giao thức
 - REG <username> <password>
 - LOGIN <username> <password>
 - ROOM <number>: chuyển tới phòng khác (1 người chỉ được ở 1 phòng)
