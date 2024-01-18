@@ -24,3 +24,5 @@ Các chức năng:
 - FILES: hiển thị hết tất cả các file đã được chia sẻ trong room​
 - CREATE <number>: tạo room mới​
 - ALL: hiển thị tất cả room​
+
+(NOTE: tạo thêm 1 folder tên server_file_storage để lưu file sau khi GET)
